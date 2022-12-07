@@ -41,27 +41,3 @@ Step 4: Running `rasa x` command should open a browser tab to `http://localhost:
 
 ## 🔹References:
 - [Rasa documentaion](https://rasa.com/docs/rasa/)
-- [Chrome Extension](https://github.com/gauravpore/healthcare_rasa-bot/tree/master/Chrome%20extension)
-
-## 🔹Contribution:
-Contributions are always welcomed.
-Make sure you read the [Contribution info](https://github.com/gauravpore/healthcare_rasa-bot/blob/master/contribution.md) before making pull request.
-        
- ## 🔹Screenshots:
- #### Command Line Interaction:
-![alt tag](https://user-images.githubusercontent.com/67472558/119008714-09849a80-b9b0-11eb-9448-b1ae2fac9496.JPG "Command Line Interaction")
-
-#### 🔸Chrome Extension:
-![alt tag](https://user-images.githubusercontent.com/67472558/119008708-08536d80-b9b0-11eb-8a67-0fe087c9d801.JPG "Chrome Extension")
-
-#### 🔸Interaction with Bot:
-![alt tag](https://user-images.githubusercontent.com/67472558/119255658-9dd24580-bbda-11eb-86ed-6fe5a385e43e.png "Rasa x")
-
-#### 🔸Rasa X:
-![alt tag](https://user-images.githubusercontent.com/67472558/119008719-0ab5c780-b9b0-11eb-8d75-4fc0ecd0c7e0.JPG "Rasa x")
-
-#### 🔸Wellness report form:
-![alt tag](https://user-images.githubusercontent.com/67472558/119017327-84ea4a00-b9b8-11eb-8e33-07faabc91535.png "Form")
-
-        
-        
